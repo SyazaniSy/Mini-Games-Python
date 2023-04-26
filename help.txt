@@ -1,0 +1,16 @@
+Please read the instruction below carefully before you start the game:
+
+1. The format for team listing is as follow:
+    Team_Name
+    Player1
+    Player2
+    Player3
+    Player4
+
+2. Must have a newline space between each team.
+
+3. Make sure EOF is not a whitespace/newline 
+
+4. Maximum of 4 teams per file.
+
+ENJOY THE GAME :)
